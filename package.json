@@ -1,0 +1,14 @@
+{
+  "name": "nodewithmongo",
+  "version": "1.0.0",
+  "description": "mongodb crud opertions with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shalini Agrawal",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.1.1"
+  }
+}
